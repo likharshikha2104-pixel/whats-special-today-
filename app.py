@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import streamlit as st
 
 # Load dataset
 df = pd.read_csv("places.csv")
