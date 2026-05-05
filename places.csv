@@ -1,0 +1,44 @@
+name,location,category,budget,rating,special,image,distance,lat,lon
+Cafe Coffee Day,Nagpur,Cafe,300,4.2,Buy 1 Get 1,https://images.unsplash.com/photo-1509042239860-f550ce710b93,2,21.1458,79.0882
+Futala Lake,Nagpur,Chill Spot,100,4.5,Best Sunset Today,https://images.unsplash.com/photo-1507525428034-b723cf961d3e,5
+Empress Mall,Nagpur,Shopping,1000,4.1,Weekend Sale,https://images.unsplash.com/photo-1483985988355-763728e1935b,4
+Haldirams,Nagpur,Restaurant,500,4.3,Family Combo Offer,https://images.unsplash.com/photo-1504674900247-0877df9cc836,3
+Gamers Zone,Nagpur,Gaming,400,4.0,Free Gaming Hour,https://images.unsplash.com/photo-1511512578047-dfb367046420,6
+Barbeque Nation,Nagpur,Restaurant,900,4.4,Unlimited Buffet Offer,https://images.unsplash.com/photo-1552566626-52f8b828add9,7
+VR Mall,Nagpur,Shopping,1500,4.5,Flat 40% Off,https://images.unsplash.com/photo-1441986300917-64674bd600d8,8
+Escape Water Park,Nagpur,Chill Spot,1200,4.1,Summer Splash Offer,https://images.unsplash.com/photo-1506744038136-46273834b3fb,9
+Pizza Hut,Nagpur,Restaurant,700,4.0,Cheese Burst Festival,https://images.unsplash.com/photo-1513104890138-7c749659a591,2
+Fun N Food Village,Nagpur,Gaming,1300,4.3,Adventure Day Special,https://images.unsplash.com/photo-1522778119026-d647f0596c20,10
+
+Starbucks,Mumbai,Cafe,700,4.6,New Summer Drinks,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085,3
+Phoenix Mall,Mumbai,Shopping,1500,4.5,Biggest Sale Today,https://images.unsplash.com/photo-1521334884684-d80222895322,5
+Marine Drive,Mumbai,Chill Spot,200,4.8,Perfect Weather Today,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee,2
+Social Cafe,Mumbai,Cafe,900,4.4,Live DJ Night,https://images.unsplash.com/photo-1559339352-11d035aa65de,4
+Juhu Beach,Mumbai,Chill Spot,300,4.7,Street Food Festival,https://images.unsplash.com/photo-1507525428034-b723cf961d3e,6
+Smaaash,Mumbai,Gaming,1200,4.5,Bowling Tournament,https://images.unsplash.com/photo-1511512578047-dfb367046420,5
+Mainland China,Mumbai,Restaurant,1800,4.6,Special Chinese Buffet,https://images.unsplash.com/photo-1517248135467-4c7edcad34c4,7
+Infinity Mall,Mumbai,Shopping,1700,4.4,Weekend Fashion Sale,https://images.unsplash.com/photo-1441984904996-e0b6ba687e04,8
+Hard Rock Cafe,Mumbai,Cafe,1600,4.5,Live Band Tonight,https://images.unsplash.com/photo-1514933651103-005eec06c04b,4
+Snow World,Mumbai,Gaming,1400,4.3,Beat the Heat Event,https://images.unsplash.com/photo-1489599849927-2ee91cede3ba,9
+
+Social Cafe,Pune,Cafe,600,4.4,Live Music Tonight,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085,3
+Amanora Mall,Pune,Shopping,1200,4.3,Flat 50% Off,https://images.unsplash.com/photo-1483985988355-763728e1935b,5
+High Street,Pune,Restaurant,800,4.2,Couple Special Dinner,https://images.unsplash.com/photo-1517248135467-4c7edcad34c4,4
+FC Road,Pune,Chill Spot,250,4.5,Street Food Rush,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee,2
+Timezone,Pune,Gaming,900,4.3,Free Arcade Credits,https://images.unsplash.com/photo-1511512578047-dfb367046420,6
+Cafe Peter,Pune,Cafe,500,4.1,Cold Coffee Combo,https://images.unsplash.com/photo-1509042239860-f550ce710b93,3
+Phoenix Marketcity,Pune,Shopping,1800,4.6,Mega Shopping Carnival,https://images.unsplash.com/photo-1521334884684-d80222895322,7
+Burger King,Pune,Restaurant,400,4.0,Whopper Wednesday,https://images.unsplash.com/photo-1568901346375-23c9450c58cd,2
+Okayama Garden,Pune,Chill Spot,150,4.4,Peaceful Evening Spot,https://images.unsplash.com/photo-1506744038136-46273834b3fb,5
+Mystery Rooms,Pune,Gaming,1100,4.5,Escape Room Challenge,https://images.unsplash.com/photo-1522778119026-d647f0596c20,8
+
+India Gate,Delhi,Chill Spot,150,4.7,Night Food Festival,https://images.unsplash.com/photo-1524492412937-b28074a5d7da,3
+Select City Walk,Delhi,Shopping,2000,4.5,Luxury Brands Sale,https://images.unsplash.com/photo-1441986300917-64674bd600d8,5
+Gaming Arena,Delhi,Gaming,500,4.1,Free Tournament Entry,https://images.unsplash.com/photo-1511512578047-dfb367046420,4
+Cafe Delhi Heights,Delhi,Cafe,800,4.4,Special Dessert Combo,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085,3
+Connaught Place,Delhi,Chill Spot,400,4.6,Weekend Crowd Favorite,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee,2
+DLF Mall,Delhi,Shopping,1900,4.5,End of Season Sale,https://images.unsplash.com/photo-1483985988355-763728e1935b,6
+Bikanervala,Delhi,Restaurant,600,4.2,Family Thali Offer,https://images.unsplash.com/photo-1504674900247-0877df9cc836,4
+Smaaash Delhi,Delhi,Gaming,1300,4.4,VR Gaming Fest,https://images.unsplash.com/photo-1511512578047-dfb367046420,7
+The Beer Cafe,Delhi,Cafe,1700,4.3,Music Night Event,https://images.unsplash.com/photo-1514933651103-005eec06c04b,5
+Adventure Island,Delhi,Gaming,1600,4.5,Unlimited Ride Offer,https://images.unsplash.com/photo-1522778119026-d647f0596c20,9
