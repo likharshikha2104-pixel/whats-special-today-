@@ -1,44 +1,72 @@
-name,location,category,budget,rating,special,image,distance,lat,lon
-Cafe Coffee Day,Nagpur,Cafe,300,4.2,Buy 1 Get 1,https://images.unsplash.com/photo-1509042239860-f550ce710b93,2,21.1458,79.0882
-Futala Lake,Nagpur,Chill Spot,100,4.5,Best Sunset Today,https://images.unsplash.com/photo-1507525428034-b723cf961d3e,5
-Empress Mall,Nagpur,Shopping,1000,4.1,Weekend Sale,https://images.unsplash.com/photo-1483985988355-763728e1935b,4
-Haldirams,Nagpur,Restaurant,500,4.3,Family Combo Offer,https://images.unsplash.com/photo-1504674900247-0877df9cc836,3
-Gamers Zone,Nagpur,Gaming,400,4.0,Free Gaming Hour,https://images.unsplash.com/photo-1511512578047-dfb367046420,6
-Barbeque Nation,Nagpur,Restaurant,900,4.4,Unlimited Buffet Offer,https://images.unsplash.com/photo-1552566626-52f8b828add9,7
-VR Mall,Nagpur,Shopping,1500,4.5,Flat 40% Off,https://images.unsplash.com/photo-1441986300917-64674bd600d8,8
-Escape Water Park,Nagpur,Chill Spot,1200,4.1,Summer Splash Offer,https://images.unsplash.com/photo-1506744038136-46273834b3fb,9
-Pizza Hut,Nagpur,Restaurant,700,4.0,Cheese Burst Festival,https://images.unsplash.com/photo-1513104890138-7c749659a591,2
-Fun N Food Village,Nagpur,Gaming,1300,4.3,Adventure Day Special,https://images.unsplash.com/photo-1522778119026-d647f0596c20,10
+name,location,category,budget,rating,special,image,distance,lat,lon,moods
+Starbucks ,Civil Lines,Cafe,700,4.5,New Summer Drinks,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085,3,21.1535,79.0835,"Unexpected Friend Meetup, Chill with Coffee"
+Corridor Seven Coffee Roasters,Dharampeth,Cafe,600,4.7,Fresh Roasted Coffee,https://images.unsplash.com/photo-1509042239860-f550ce710b93,4,21.1452,79.0605,"Unexpected Friend Meetup, Chill with Coffee"
+Mocha Sky,Ramdaspeth,Cafe,900,4.4,Rooftop Evening Offer,https://images.unsplash.com/photo-1521017432531-fbd92d768814,5,21.131,79.079,"Unexpected Friend Meetup, Chill with Coffee"
+Three Beans Coffee,Sadar,Cafe,500,4.5,Special Coffee Combo,https://images.unsplash.com/photo-1445116572660-236099ec97a0,4,21.163,79.0845,"Unexpected Friend Meetup, Chill with Coffee"
+Cafe Zinea,Dharampeth,Cafe,450,4.3,Weekend Cafe Special,https://images.unsplash.com/photo-1453614512568-c4024d13c247,3,21.1475,79.0625,"Unexpected Friend Meetup, Chill with Coffee"
+The Breakfast Story,Civil Lines,Cafe,650,4.6,All Day Breakfast,https://images.unsplash.com/photo-1554118811-1e0d58224f24,4,21.154,79.086,"Unexpected Friend Meetup, Chill with Coffee"
+Coffee House Sadar,Sadar,Cafe,300,4.2,Classic Coffee Deal,https://images.unsplash.com/photo-1497636577773-f1231844b336,2,21.161,79.087,"Unexpected Friend Meetup, Chill with Coffee"
+Haldiram's,Sitabuldi,Restaurant,600,4.4,Family Meal Combo,https://images.unsplash.com/photo-1504674900247-0877df9cc836,3,21.145,79.088,"Unexpected Friend Meetup, Chill with Coffee"
+Barbeque Nation,Wardha Road,Restaurant,1200,4.5,Unlimited Buffet,https://images.unsplash.com/photo-1552566626-52f8b828add9,6,21.102,79.06,"Unexpected Friend Meetup, Chill with Coffee"
+Naivedhyam,Sitabuldi,Restaurant,500,4.4,Traditional Thali Offer,https://images.unsplash.com/photo-1546069901-ba9599a7e63c,3,21.147,79.091,"Unexpected Friend Meetup, Chill with Coffee"
+Ashoka Restaurant,Sadar,Restaurant,700,4.2,Special Dinner Menu,https://images.unsplash.com/photo-1517248135467-4c7edcad34c4,4,21.162,79.086,"Unexpected Friend Meetup, Chill with Coffee"
+Veeraswami,Dharampeth,Restaurant,650,4.3,South Indian Festival,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38,4,21.146,79.064,"Unexpected Friend Meetup, Chill with Coffee"
+Absolute Barbecues,Wardha Road,Restaurant,1300,4.5,Live Grill Experience,https://images.unsplash.com/photo-1528605248644-14dd04022da1,7,21.104,79.061,"Unexpected Friend Meetup, Chill with Coffee"
+The Creative Kitchen,Ramdaspeth,Restaurant,800,4.3,Chef Special Menu,https://images.unsplash.com/photo-1555396273-367ea4eb4db5,4,21.13,79.08,"Unexpected Friend Meetup, Chill with Coffee"
+VR Mall,Medical Square,Mall,1500,4.5,Weekend Mega Sale,https://images.unsplash.com/photo-1441986300917-64674bd600d8,5,21.17,79.089,"Unexpected Friend Meetup, Chill with Coffee"
+Empress Mall,Cotton Market,Mall,1200,4.2,Flat 40 Percent Off,https://images.unsplash.com/photo-1483985988355-763728e1935b,4,21.14,79.1,"Unexpected Friend Meetup, Chill with Coffee"
+Trillium Mall,Medical Square,Mall,1400,4.4,Fashion Carnival,https://images.unsplash.com/photo-1521334884684-d80222895322,6,21.171,79.09,"Unexpected Friend Meetup, Chill with Coffee"
+Eternity Mall,Wardha Road,Mall,1300,4.1,Shopping Festival,https://images.unsplash.com/photo-1519567241046-7f570eee3ce6,7,21.1,79.058,"Unexpected Friend Meetup, Chill with Coffee"
+Futala Lake,Futala,Tourist Attraction,100,4.8,Best Sunset Spot,https://images.unsplash.com/photo-1507525428034-b723cf961d3e,5,21.17,79.04,"Unexpected Friend Meetup, Chill with Coffee"
+Ambazari Lake,Ambazari,Tourist Attraction,100,4.7,Lakeside Evening View,https://images.unsplash.com/photo-1506744038136-46273834b3fb,4,21.15,79.03,"Unexpected Friend Meetup, Chill with Coffee"
+Deekshabhoomi,Ramdaspeth,Tourist Attraction,100,4.9,Historic Landmark,https://images.unsplash.com/photo-1524492412937-b28074a5d7da,3,21.128,79.075,"Unexpected Friend Meetup, Chill with Coffee"
+Raman Science Centre,Civil Lines,Tourist Attraction,200,4.5,Science Exhibits,https://images.unsplash.com/photo-1516321318423-f06f85e504b3,4,21.151,79.086,"Unexpected Friend Meetup, Chill with Coffee"
+Maharajbag Zoo,Seminary Hills,Tourist Attraction,100,4.3,Family Attraction,https://images.unsplash.com/photo-1546182990-dffeafbe841d,5,21.158,79.072,"Unexpected Friend Meetup, Chill with Coffee"
+Dragon Palace Temple,Kamptee,Tourist Attraction,100,4.7,Peaceful Temple Visit,https://images.unsplash.com/photo-1512632578888-169bbbc64f33,12,21.23,79.2,"Unexpected Friend Meetup, Chill with Coffee"
+Sitabuldi Fort,Sitabuldi,Tourist Attraction,100,4.2,Historic Fort Visit,https://images.unsplash.com/photo-1467269204594-9661b134dd2b,2,21.145,79.089,"Unexpected Friend Meetup, Chill with Coffee"
+Zero Mile Stone,Civil Lines,Tourist Attraction,100,4.4,Center of India Landmark,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee,3,21.149,79.084,"Unexpected Friend Meetup, Chill with Coffee"
+Japanese Garden,Koradi Road,Park,100,4.4,Evening Walk Spot,https://images.unsplash.com/photo-1441974231531-c6227db76b6e,8,21.19,79.06,"Unexpected Friend Meetup, Chill with Coffee"
+Telankhedi Garden,Telankhedi,Park,100,4.3,Family Picnic Area,https://images.unsplash.com/photo-1501785888041-af3ef285b470,5,21.165,79.055,"Unexpected Friend Meetup, Chill with Coffee"
+Ambazari Biodiversity Park,Ambazari,Park,150,4.6,Nature Trail Experience,https://images.unsplash.com/photo-1448375240586-882707db888b,6,21.152,79.025,"Unexpected Friend Meetup, Chill with Coffee"
+Traffic Park,Dharampeth,Park,100,4.1,Kids Learning Park,https://images.unsplash.com/photo-1470770841072-f978cf4d019e,4,21.146,79.061,"Unexpected Friend Meetup, Chill with Coffee"
+AIIMS Nagpur,MIHAN,Hospital,500,4.7,24x7 Emergency Service,https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d,12,21.035,79.02,"Unexpected Friend Meetup, Chill with Coffee"
+Wockhardt Hospital,Shankar Nagar,Hospital,700,4.5,Specialist Care Available,https://images.unsplash.com/photo-1586773860418-d37222d8fce3,4,21.126,79.058,"Unexpected Friend Meetup, Chill with Coffee"
+Orange City Hospital,Dharampeth,Hospital,600,4.3,Multi Specialty Care,https://images.unsplash.com/photo-1538108149393-fbbd81895907,4,21.144,79.06,"Unexpected Friend Meetup, Chill with Coffee"
+Care Hospital,Sitabuldi,Hospital,650,4.2,Advanced Medical Services,https://images.unsplash.com/photo-1516549655169-df83a0774514,3,21.145,79.087,"Unexpected Friend Meetup, Chill with Coffee"
+Kingsway Hospital,Sitabuldi,Hospital,800,4.6,Premium Healthcare,https://images.unsplash.com/photo-1576091160399-112ba8d25d1d,3,21.146,79.09,"Unexpected Friend Meetup, Chill with Coffee"
+Radisson Blu,Wardha Road,Hotel,2500,4.7,Luxury Stay Offer,https://images.unsplash.com/photo-1566073771259-6a8506099945,7,21.095,79.055,"Unexpected Friend Meetup, Chill with Coffee"
+Le Meridien,Wardha Road,Hotel,3000,4.6,Weekend Stay Package,https://images.unsplash.com/photo-1551882547-ff40c63fe5fa,8,21.092,79.052,"Unexpected Friend Meetup, Chill with Coffee"
+Tuli Imperial,Ramdaspeth,Hotel,2200,4.4,Business Class Stay,https://images.unsplash.com/photo-1445019980597-93fa8acb246c,4,21.128,79.079,"Unexpected Friend Meetup, Chill with Coffee"
+Centre Point Hotel,Ramdaspeth,Hotel,2000,4.3,City Center Location,https://images.unsplash.com/photo-1522708323590-d24dbb6b0267,4,21.129,79.08,"Unexpected Friend Meetup, Chill with Coffee"
+Hotel Hardeo,Sitabuldi,Hotel,1800,4.2,Comfort Stay Deal,https://images.unsplash.com/photo-1564501049412-61c2a3083791,3,21.145,79.088,"Unexpected Friend Meetup, Chill with Coffee"
+Urban Hermitage,Sadar,Cafe,550,4.6,Cold Brew Festival,https://images.unsplash.com/photo-1509042239860-f550ce710b93,3,21.1625,79.0865,"Unexpected Friend Meetup, Chill with Coffee"
+Cafe Coffee Day,Dharampeth,Cafe,400,4.2,Buy 1 Get 1 Coffee,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085,4,21.1455,79.0615,"Unexpected Friend Meetup, Chill with Coffee"
+The Coffee House,Civil Lines,Cafe,350,4.3,Special Breakfast Combo,https://images.unsplash.com/photo-1445116572660-236099ec97a0,2,21.152,79.084,"Unexpected Friend Meetup, Chill with Coffee"
+Fuel Headquarters,Ramdaspeth,Cafe,750,4.5,Live Music Night,https://images.unsplash.com/photo-1554118811-1e0d58224f24,5,21.1305,79.078,"Unexpected Friend Meetup, Chill with Coffee"
+Checkers Restaurant,Sitabuldi,Restaurant,850,4.4,Weekend Buffet,https://images.unsplash.com/photo-1552566626-52f8b828add9,3,21.1465,79.0895,"Unexpected Friend Meetup, Chill with Coffee"
+Zuree Urban Kitchen,Civil Lines,Restaurant,1100,4.7,Chef Signature Menu,https://images.unsplash.com/photo-1555396273-367ea4eb4db5,4,21.1515,79.0855,"Unexpected Friend Meetup, Chill with Coffee"
+Biryani Inc,Sadar,Restaurant,700,4.5,Special Hyderabadi Biryani,https://images.unsplash.com/photo-1504674900247-0877df9cc836,3,21.1615,79.0865,"Unexpected Friend Meetup, Chill with Coffee"
+Pablo The Art Cafe,Dharampeth,Restaurant,900,4.6,Art & Food Festival,https://images.unsplash.com/photo-1517248135467-4c7edcad34c4,4,21.1465,79.0625,"Unexpected Friend Meetup, Chill with Coffee"
+Poonam Mall,Sitabuldi,Mall,1000,4.1,Summer Shopping Sale,https://images.unsplash.com/photo-1483985988355-763728e1935b,2,21.1455,79.089,"Unexpected Friend Meetup, Chill with Coffee"
+Central Mall,Ramdaspeth,Mall,1300,4.3,Fashion Week Discounts,https://images.unsplash.com/photo-1521334884684-d80222895322,5,21.1285,79.0795,"Unexpected Friend Meetup, Chill with Coffee"
+Millennium Mall,Wardha Road,Mall,1500,4.5,Mega Electronics Sale,https://images.unsplash.com/photo-1441986300917-64674bd600d8,8,21.098,79.056,"Unexpected Friend Meetup, Chill with Coffee"
+Gorewada Lake,Gorewada,Tourist Attraction,100,4.7,Nature Escape,https://images.unsplash.com/photo-1506744038136-46273834b3fb,9,21.205,79.04,"Unexpected Friend Meetup, Chill with Coffee"
+Gorewada Zoo,Gorewada,Tourist Attraction,250,4.6,Wildlife Safari,https://images.unsplash.com/photo-1546182990-dffeafbe841d,9,21.207,79.043,"Unexpected Friend Meetup, Chill with Coffee"
+Shukrawari Lake,Mahal,Tourist Attraction,100,4.3,Evening Boating,https://images.unsplash.com/photo-1507525428034-b723cf961d3e,3,21.1455,79.102,"Unexpected Friend Meetup, Chill with Coffee"
+Narrow Gauge Rail Museum,Civil Lines,Tourist Attraction,150,4.5,Historic Railway Collection,https://images.unsplash.com/photo-1516321318423-f06f85e504b3,3,21.1505,79.085,"Unexpected Friend Meetup, Chill with Coffee"
+Lata Mangeshkar Musical Garden,Surya Nagar,Park,100,4.4,Musical Fountain Show,https://images.unsplash.com/photo-1441974231531-c6227db76b6e,7,21.18,79.05,"Unexpected Friend Meetup, Chill with Coffee"
+Children Traffic Park,Dharampeth,Park,100,4.2,Kids Adventure Zone,https://images.unsplash.com/photo-1470770841072-f978cf4d019e,4,21.146,79.063,"Unexpected Friend Meetup, Chill with Coffee"
+Suresh Bhat Auditorium,Reshimbagh,Park,100,4.3,Open Green Area,https://images.unsplash.com/photo-1501785888041-af3ef285b470,6,21.136,79.11,"Unexpected Friend Meetup, Chill with Coffee"
+Orange City Water Park,Amravati Road,Park,300,4.5,Water Activities,https://images.unsplash.com/photo-1448375240586-882707db888b,10,21.22,79.02,"Unexpected Friend Meetup, Chill with Coffee"
+Meditrina Hospital,Ramdaspeth,Hospital,700,4.4,Cardiac Care Center,https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d,4,21.1295,79.0785,"Unexpected Friend Meetup, Chill with Coffee"
+Suretech Hospital,Dharampeth,Hospital,650,4.3,24x7 Medical Service,https://images.unsplash.com/photo-1586773860418-d37222d8fce3,4,21.145,79.061,"Unexpected Friend Meetup, Chill with Coffee"
+Alexis Hospital,Mankapur,Hospital,800,4.6,Advanced Healthcare,https://images.unsplash.com/photo-1576091160399-112ba8d25d1d,8,21.19,79.09,"Unexpected Friend Meetup, Chill with Coffee"
+Hotel Centre Point,Ramdaspeth,Hotel,2200,4.5,Luxury Stay Package,https://images.unsplash.com/photo-1522708323590-d24dbb6b0267,4,21.129,79.081,"Unexpected Friend Meetup, Chill with Coffee"
+Hotel President,Sitabuldi,Hotel,1800,4.2,Business Stay Offer,https://images.unsplash.com/photo-1564501049412-61c2a3083791,3,21.146,79.0885,"Unexpected Friend Meetup, Chill with Coffee"
+The Pride Hotel,Wardha Road,Hotel,2800,4.6,Premium Weekend Package,https://images.unsplash.com/photo-1551882547-ff40c63fe5fa,7,21.096,79.054,"Unexpected Friend Meetup, Chill with Coffee"
+Treebo Trend Hotel,Civil Lines,Hotel,1500,4.3,Budget Luxury Stay,https://images.unsplash.com/photo-1445019980597-93fa8acb246c,3,21.151,79.0845,"Unexpected Friend Meetup, Chill with Coffee"
+chillout cafe,dharampeth,Cafe,800,4.5,best cold coffee,https://images.unsplash.com/photo-1554118811-1e0d58224f24,8,21.1458,79.0882,"Unexpected Friend Meetup, Chill with Coffee & Conversations"
 
-Starbucks,Mumbai,Cafe,700,4.6,New Summer Drinks,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085,3
-Phoenix Mall,Mumbai,Shopping,1500,4.5,Biggest Sale Today,https://images.unsplash.com/photo-1521334884684-d80222895322,5
-Marine Drive,Mumbai,Chill Spot,200,4.8,Perfect Weather Today,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee,2
-Social Cafe,Mumbai,Cafe,900,4.4,Live DJ Night,https://images.unsplash.com/photo-1559339352-11d035aa65de,4
-Juhu Beach,Mumbai,Chill Spot,300,4.7,Street Food Festival,https://images.unsplash.com/photo-1507525428034-b723cf961d3e,6
-Smaaash,Mumbai,Gaming,1200,4.5,Bowling Tournament,https://images.unsplash.com/photo-1511512578047-dfb367046420,5
-Mainland China,Mumbai,Restaurant,1800,4.6,Special Chinese Buffet,https://images.unsplash.com/photo-1517248135467-4c7edcad34c4,7
-Infinity Mall,Mumbai,Shopping,1700,4.4,Weekend Fashion Sale,https://images.unsplash.com/photo-1441984904996-e0b6ba687e04,8
-Hard Rock Cafe,Mumbai,Cafe,1600,4.5,Live Band Tonight,https://images.unsplash.com/photo-1514933651103-005eec06c04b,4
-Snow World,Mumbai,Gaming,1400,4.3,Beat the Heat Event,https://images.unsplash.com/photo-1489599849927-2ee91cede3ba,9
-
-Social Cafe,Pune,Cafe,600,4.4,Live Music Tonight,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085,3
-Amanora Mall,Pune,Shopping,1200,4.3,Flat 50% Off,https://images.unsplash.com/photo-1483985988355-763728e1935b,5
-High Street,Pune,Restaurant,800,4.2,Couple Special Dinner,https://images.unsplash.com/photo-1517248135467-4c7edcad34c4,4
-FC Road,Pune,Chill Spot,250,4.5,Street Food Rush,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee,2
-Timezone,Pune,Gaming,900,4.3,Free Arcade Credits,https://images.unsplash.com/photo-1511512578047-dfb367046420,6
-Cafe Peter,Pune,Cafe,500,4.1,Cold Coffee Combo,https://images.unsplash.com/photo-1509042239860-f550ce710b93,3
-Phoenix Marketcity,Pune,Shopping,1800,4.6,Mega Shopping Carnival,https://images.unsplash.com/photo-1521334884684-d80222895322,7
-Burger King,Pune,Restaurant,400,4.0,Whopper Wednesday,https://images.unsplash.com/photo-1568901346375-23c9450c58cd,2
-Okayama Garden,Pune,Chill Spot,150,4.4,Peaceful Evening Spot,https://images.unsplash.com/photo-1506744038136-46273834b3fb,5
-Mystery Rooms,Pune,Gaming,1100,4.5,Escape Room Challenge,https://images.unsplash.com/photo-1522778119026-d647f0596c20,8
-
-India Gate,Delhi,Chill Spot,150,4.7,Night Food Festival,https://images.unsplash.com/photo-1524492412937-b28074a5d7da,3
-Select City Walk,Delhi,Shopping,2000,4.5,Luxury Brands Sale,https://images.unsplash.com/photo-1441986300917-64674bd600d8,5
-Gaming Arena,Delhi,Gaming,500,4.1,Free Tournament Entry,https://images.unsplash.com/photo-1511512578047-dfb367046420,4
-Cafe Delhi Heights,Delhi,Cafe,800,4.4,Special Dessert Combo,https://images.unsplash.com/photo-1495474472287-4d71bcdd2085,3
-Connaught Place,Delhi,Chill Spot,400,4.6,Weekend Crowd Favorite,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee,2
-DLF Mall,Delhi,Shopping,1900,4.5,End of Season Sale,https://images.unsplash.com/photo-1483985988355-763728e1935b,6
-Bikanervala,Delhi,Restaurant,600,4.2,Family Thali Offer,https://images.unsplash.com/photo-1504674900247-0877df9cc836,4
 Smaaash Delhi,Delhi,Gaming,1300,4.4,VR Gaming Fest,https://images.unsplash.com/photo-1511512578047-dfb367046420,7
 The Beer Cafe,Delhi,Cafe,1700,4.3,Music Night Event,https://images.unsplash.com/photo-1514933651103-005eec06c04b,5
 Adventure Island,Delhi,Gaming,1600,4.5,Unlimited Ride Offer,https://images.unsplash.com/photo-1522778119026-d647f0596c20,9
